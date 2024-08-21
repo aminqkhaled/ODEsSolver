@@ -10,6 +10,5 @@ A NOTE on Sympy's syntax:
 
 Other remarks include: 
 - 'y' is the dependent variable, and 'x' is the independent variable.
-- If the ODE has a positive and a negative solution the positive solution is returned
 
 Finally, if there are any problems or bugs with this program feel free to get in touch..
